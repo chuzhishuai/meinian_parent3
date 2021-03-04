@@ -7,5 +7,9 @@ public class JobDemo {
     public void run(){
         // 完成业务
         System.out.println(new Date());
+        System.out.println("你好");
     }
+
+
+
 }
